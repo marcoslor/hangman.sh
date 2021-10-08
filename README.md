@@ -1,4 +1,4 @@
-# Hangmansh
+# Hangman.sh
 
 Responsável: Marcos Rios.
 
