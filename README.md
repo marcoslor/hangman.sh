@@ -1,7 +1,7 @@
-# Hangman.sh
+# hangman.sh
 
-Responsável: Marcos Rios.
+Projeto para a matéria de Sistemas Operacionais do Instituto Federal da Bahia.
 
-Projeto para a matéria de Sistemas Operacionais do Instituto Federal da Bahia - Campus Jacobina.
+👨‍💻 Responsável: Marcos Rios.
 
-Professor instrutor: Toni Borges.
+👨‍🏫 Professor e instrutor: Toni Borges.
