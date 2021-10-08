@@ -1,9 +1,7 @@
-# hangman
-
-Hangman project
+# Hangmansh
 
 Responsável: Marcos Rios.
 
-Projeto para a matéria de SO do IFBA Campus Jacobina.
+Projeto para a matéria de Sistemas Operacionais do Instituto Federal da Bahia - Campus Jacobina.
 
-Instrutor: Toni Borges.
+Professor instrutor: Toni Borges.
